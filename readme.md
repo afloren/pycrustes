@@ -1,0 +1,1 @@
+Simple library for solving the generalized orhtogonal Procrustes problem in Python.
